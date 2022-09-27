@@ -6244,7 +6244,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 91a39a1591c2f094dad9ae3e920cde4b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  message: Think Fast, Move Fast Live Fast
+  message: Hoverboarding, with speed bumps
   texts:
   - {fileID: 793187530}
   - {fileID: 1693465473}
